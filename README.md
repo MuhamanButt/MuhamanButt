@@ -1,0 +1,1 @@
+At present, I am a BSCS student in my fourth semester at UCP Lahore. My educational background comprises the successful completion of my Intermediate of Computer Science (ICS) from GCU Lahore and my Matriculation in Computer Science from St. Anthony's High School Lahore. Recently, in July 2023, I embarked on an internship in the field of web development.
